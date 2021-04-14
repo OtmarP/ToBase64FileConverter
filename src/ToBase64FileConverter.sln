@@ -17,6 +17,15 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "img", "img", "{7299825A-80F
 		..\img\Bild_20210409_100808_001.png = ..\img\Bild_20210409_100808_001.png
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{10D73863-CF51-423A-9B98-088EA23A2887}"
+	ProjectSection(SolutionItems) = preProject
+		..\test\HappyFace (1).jpg = ..\test\HappyFace (1).jpg
+		..\test\HappyFace (1).jpg.txt = ..\test\HappyFace (1).jpg.txt
+		..\test\HappyFace.jpg = ..\test\HappyFace.jpg
+		..\test\HappyFace.jpg.txt = ..\test\HappyFace.jpg.txt
+		..\test\index.html = ..\test\index.html
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +42,7 @@ Global
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{7299825A-80FD-4344-8458-2D1D12297947} = {E8B83619-A902-4458-904E-CD48C494CA19}
+		{10D73863-CF51-423A-9B98-088EA23A2887} = {E8B83619-A902-4458-904E-CD48C494CA19}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B44BCC25-0B81-4683-BBB0-717AF89F3109}
