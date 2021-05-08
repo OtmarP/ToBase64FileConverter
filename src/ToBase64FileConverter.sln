@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.28307.1433
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToBase64FileConverter", "ToBase64FileConverter\ToBase64FileConverter.csproj", "{F4AEA3D9-7E83-4F44-9EC0-578D4149BC23}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Folder", "Solution Folder", "{E8B83619-A902-4458-904E-CD48C494CA19}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution_Folder", "Solution_Folder", "{E8B83619-A902-4458-904E-CD48C494CA19}"
 	ProjectSection(SolutionItems) = preProject
 		..\.gitignore = ..\.gitignore
 		..\LICENSE = ..\LICENSE
